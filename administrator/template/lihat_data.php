@@ -1,6 +1,6 @@
 <?php 
 
-include 'view/BeritaUI.php';
+include 'view/utamaUI.php';
 
 $brd = new BeritaUI();
 
